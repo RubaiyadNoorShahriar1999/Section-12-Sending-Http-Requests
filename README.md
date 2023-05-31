@@ -4,7 +4,13 @@ Sending Http Requests
 
 <h2>Section 12 contains:</h2>
 
-     1. Running....
+     1. Sending GET and POST Request
+     2. Showing Loading text while retrieving data from database
+     3. Handling "No Data" state
+     4. Handling Browser side error
+     5. Handling Server side Error responses from database
+     6. Introduction to Firebase sprint backend 
+     7. Introduction to Axios
 
 <h2>To run this project</h2>
 
